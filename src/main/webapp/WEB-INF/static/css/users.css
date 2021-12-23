@@ -1,0 +1,27 @@
+body {
+    background-color: #10141a;
+}
+table {
+    border-collapse: collapse;
+    line-height: 1.1;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background: #10141a;
+    color: #ffffff;
+    margin: auto;
+}
+th{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 60px;
+    text-align: center;
+}
+td{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 60px;
+    text-align: center;
+}
+tr:nth-child(odd) {background: #1f2830}
+
+
+

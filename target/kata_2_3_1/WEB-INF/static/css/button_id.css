@@ -1,0 +1,19 @@
+.buttonId {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    /*padding: .5em 2em;*/
+    height: 40px;
+    width: 80px;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    margin-top: 10px;
+    background: #10141a;
+}
+.buttonId:hover { background: rgba(255,255,255,.2); }
+.buttonId:active { background: #10141a; }
